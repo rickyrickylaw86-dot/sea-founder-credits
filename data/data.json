@@ -296,7 +296,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "closed"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "OpenAI for Startups",
@@ -653,7 +653,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "Cradle CIP Sprint",
@@ -670,7 +670,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "MDEC Digital Content Grant 2026 (Marketing & Commercialisation)",
@@ -680,14 +680,14 @@
    "countries": [
     "MY"
    ],
-   "eligibility": "Malaysian animation/games companies, operating 1+ yr, MD or MSC status.",
+   "eligibility": "Malaysian animation/games companies, operating 1+ yr, MD or MSC status. DCG 2026 applications closed 30 Sep 2026; MDEC will announce a reopening.",
    "needs_vc": false,
    "apply_url": "http://www.mdec.my/grants/dcg",
    "source_url": "http://www.mdec.my/grants/dcg",
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "MDEC Digital Content Grant 2026 (Mega)",
@@ -697,14 +697,14 @@
    "countries": [
     "MY"
    ],
-   "eligibility": "Malaysian animation/games companies; capital/ownership criteria apply.",
+   "eligibility": "Malaysian animation/games companies; capital/ownership criteria apply. DCG 2026 applications closed 30 Sep 2026.",
    "needs_vc": false,
    "apply_url": "http://www.mdec.my/grants/dcg",
    "source_url": "https://www.businesstoday.com.my/2026/07/15/content-creators-may-start-applying-for-grants-up-to-rm2-million-from-mdec/",
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "Malaysia Digital (MD) status",
@@ -772,7 +772,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "Startup SG Tech",
@@ -789,7 +789,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "Startup SG Equity",
@@ -823,7 +823,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "Thailand NIA innovation grants",
@@ -840,7 +840,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "DOST-PCIEERD Startup Grant Fund",
@@ -850,14 +850,14 @@
    "countries": [
     "PH"
    ],
-   "eligibility": "Philippine tech startups; 2026 call ran 3-31 July 2026 (check next call).",
+   "eligibility": "Philippine tech startups; 2026 call ran 3-31 July 2026, next call TBA.",
    "needs_vc": false,
    "apply_url": "https://pcieerd.dost.gov.ph/work-with-us/2026-call-for-proposal-for-the-pcieerd-startup-grant-fund-program/",
    "source_url": "https://pcieerd.dost.gov.ph/work-with-us/2026-call-for-proposal-for-the-pcieerd-startup-grant-fund-program/",
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "L-CAMP Vietnam (Lotte Ventures)",
@@ -874,7 +874,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "UGM Startup Grant",
@@ -891,7 +891,7 @@
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "Google for Startups Accelerator: Southeast Asia",
@@ -906,14 +906,14 @@
     "VN",
     "PH"
    ],
-   "eligibility": "SEA-based tech startups, ideally Seed to Series B, deeply technical (AI/ML). Applications currently closed.",
+   "eligibility": "SEA-based tech startups, Seed to Series B, deeply technical (AI/ML). 2026 applications ran 25 May-20 Jun 2026; register interest for the next cohort.",
    "needs_vc": false,
    "apply_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
    "source_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "closed"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "AWS Generative AI Accelerator",
@@ -930,7 +930,7 @@
    "date_checked": "2026-11-04",
    "verified": false,
    "featured": false,
-   "status": "closed"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "Antler Singapore (SEA)",
@@ -945,14 +945,14 @@
     "PH",
     "TH"
    ],
-   "eligibility": "6-week in-person residency in Singapore (next 5 Oct 2026); Malaysia also has a Direct Investment Track for teams with MVP and traction.",
+   "eligibility": "6-week in-person residency in Singapore (latest started 5 Oct 2026; applications taken continuously for the next one); Malaysia also has a Direct Investment Track for teams with MVP and traction.",
    "needs_vc": true,
    "apply_url": "https://www.antler.co/location/singapore",
    "source_url": "https://www.antler.co/location/singapore",
    "date_checked": "2026-11-04",
    "verified": true,
    "featured": false,
-   "status": "open"
+   "status": "rolling"
   },
   {
    "name": "Iterative",

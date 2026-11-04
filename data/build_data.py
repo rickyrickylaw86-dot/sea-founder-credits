@@ -133,6 +133,31 @@ E = [e for e in E if e["name"] not in REMOVED]
 for e in E:
     e.setdefault("status","open")
     if e["name"] in U: e.update(U[e["name"]]); e["date_checked"]=D
+# ---- 2026-11-04 status pass: dated rounds checked against official pages ----
+TBA="closed (next round TBA)"
+S = {
+ "DOST-PCIEERD Startup Grant Fund": (TBA, "Philippine tech startups; 2026 call ran 3-31 July 2026, next call TBA."),
+ "L-CAMP Vietnam (Lotte Ventures)": (TBA, None),
+ "UGM Startup Grant": (TBA, None),
+ "Google for Startups Accelerator: Southeast Asia": (TBA, "SEA-based tech startups, Seed to Series B, deeply technical (AI/ML). 2026 applications ran 25 May-20 Jun 2026; register interest for the next cohort."),
+ "Claude for Startups": (TBA, None),
+ "AWS Generative AI Accelerator": (TBA, None),
+ "MDEC Digital Content Grant 2026 (Marketing & Commercialisation)": (TBA, "Malaysian animation/games companies, operating 1+ yr, MD or MSC status. DCG 2026 applications closed 30 Sep 2026; MDEC will announce a reopening."),
+ "MDEC Digital Content Grant 2026 (Mega)": (TBA, "Malaysian animation/games companies; capital/ownership criteria apply. DCG 2026 applications closed 30 Sep 2026."),
+ "Cradle CIP Spark": ("rolling", None),
+ "Cradle CIP Sprint": ("rolling", None),
+ "Startup SG Founder": ("rolling", None),
+ "Startup SG Tech": ("rolling", None),
+ "Productivity Solutions Grant (PSG)": ("rolling", None),
+ "Thailand NIA innovation grants": ("rolling", None),
+ "Antler Singapore (SEA)": ("rolling", "6-week in-person residency in Singapore (latest started 5 Oct 2026; applications taken continuously for the next one); Malaysia also has a Direct Investment Track for teams with MVP and traction."),
+ "Iterative": ("open", None),
+ "Y Combinator": ("open", None),
+}
+for e in E:
+    if e["name"] in S:
+        st, el = S[e["name"]]; e["status"]=st; e["date_checked"]=D
+        if el: e["eligibility"]=el
 args = sys.argv[1:]
 p = pathlib.Path(__file__).parent/"data.json"
 if "--check" in args:
@@ -149,6 +174,7 @@ for i,e in enumerate(E):
     for c in e.get("countries",[]):
         if c not in ALL+[G]: errs.append(f"#{i}: bad country {c}")
     if e["name"] in seen: errs.append(f"duplicate {e['name']}")
+    if e.get("status") not in ("open","rolling","closed (next round TBA)"): errs.append(f"#{i} {e['name']}: bad status {e.get('status')}")
     seen.add(e["name"])
 if errs: print("\n".join(errs)); sys.exit(1)
 if "--check" not in args:
