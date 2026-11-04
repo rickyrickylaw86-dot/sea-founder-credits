@@ -1,0 +1,1019 @@
+{
+ "updated": "2026-11-04",
+ "countries": [
+  "MY",
+  "SG",
+  "ID",
+  "TH",
+  "VN",
+  "PH"
+ ],
+ "entries": [
+  {
+   "name": "AWS Activate Founders",
+   "provider": "Amazon Web Services",
+   "category": "Cloud",
+   "value": "US$1,000 credits (select startups up to US$5,000 over time)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Self-funded, new to Activate credits, working company website, founded in last 10 years.",
+   "needs_vc": false,
+   "apply_url": "https://aws.amazon.com/startups/credits",
+   "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "AWS Activate Portfolio",
+   "provider": "Amazon Web Services",
+   "category": "Cloud",
+   "value": "Up to US$200,000 credits (some AWS pages still say US$100,000)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Needs an Activate Provider Organization ID (VC/accelerator), pre-Series B, founded in last 10 years.",
+   "needs_vc": true,
+   "apply_url": "https://aws.amazon.com/startups/credits",
+   "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Google for Startups Cloud Program (Start/Scale)",
+   "provider": "Google Cloud",
+   "category": "Cloud",
+   "value": "Up to US$200,000 over 2 years (Y1 100% up to US$100k, Y2 20% up to US$100k)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Pre-seed to Series A institutional/VC equity funding; angel, grant, crowdfunding don't qualify; founded within 3-5 yrs; ≤US$5k prior GCP credits.",
+   "needs_vc": true,
+   "apply_url": "https://startup.google.com/cloud/",
+   "source_url": "https://startup.google.com/cloud/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Google for Startups Cloud Program, AI tier",
+   "provider": "Google Cloud",
+   "category": "AI",
+   "value": "Up to US$350,000 over 2 years (Y1 100% up to US$250k)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "AI-first, Gemini as core of product; Pre-Seed/Seed in last 5 yrs or Series A in last 12 months; founded in last 5 yrs. Third-party models not covered.",
+   "needs_vc": true,
+   "apply_url": "https://cloud.google.com/startup/ai",
+   "source_url": "https://cloud.google.com/startup/ai",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Microsoft for Startups",
+   "provider": "Microsoft",
+   "category": "Cloud",
+   "value": "US$200 immediately; US$5,000 after business verification; up to US$150,000 via usage milestones",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Registered legal entity for US$5k; higher tiers need 5/7/10+ Azure workloads for 60 days (US$150k also ~US$3k/month usage). No VC needed.",
+   "needs_vc": false,
+   "apply_url": "https://www.microsoft.com/en-us/startups",
+   "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Cloudflare for Startups (bootstrapped)",
+   "provider": "Cloudflare",
+   "category": "Cloud",
+   "value": "US$10,000 credits",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Bootstrapped / raised under US$1M.",
+   "needs_vc": false,
+   "apply_url": "https://www.cloudflare.com/startups/",
+   "source_url": "https://www.cloudflare.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Cloudflare for Startups (partner-backed)",
+   "provider": "Cloudflare",
+   "category": "Cloud",
+   "value": "US$100,000 (<US$5M raised) up to US$350,000 (US$5M+ raised)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Needs affiliation with a Cloudflare partner VC/accelerator.",
+   "needs_vc": true,
+   "apply_url": "https://www.cloudflare.com/startups/",
+   "source_url": "https://www.cloudflare.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Oracle Startup Growth Engine",
+   "provider": "Oracle",
+   "category": "Cloud",
+   "value": "US$5,000 to US$60,000 OCI Universal Credits (12 months)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Legally registered tech company with a validated product and a workload for OCI; Oracle selects at its discretion, credits not guaranteed. Launched Oct 2026, replaces Oracle for Startups.",
+   "needs_vc": false,
+   "apply_url": "https://www.oracle.com/se/artificial-intelligence/startup-growth-engine/",
+   "source_url": "https://www.oracle.com/europe/artificial-intelligence/startup-growth-engine/terms/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "DigitalOcean Startups (ex-Hatch)",
+   "provider": "DigitalOcean",
+   "category": "Cloud",
+   "value": "Credits, amount varies (not stated); selected startups invited to GPU credit packages",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "AI-native startups prioritised; raised US$10M or less; company website + company email; service businesses/agencies not eligible.",
+   "needs_vc": false,
+   "apply_url": "https://www.digitalocean.com/startups",
+   "source_url": "https://www.digitalocean.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Alibaba Cloud AI Catalyst Program",
+   "provider": "Alibaba Cloud",
+   "category": "Cloud",
+   "value": "Up to US$120k AI credits + up to 2B free Model Studio tokens",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "not stated on page (selection-based).",
+   "needs_vc": false,
+   "apply_url": "https://www.alibabacloud.com/en/startup/ai",
+   "source_url": "https://www.alibabacloud.com/en/startup/ai",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Huawei Cloud Startup Program",
+   "provider": "Huawei Cloud",
+   "category": "Cloud",
+   "value": "Up to USD150,000 Huawei Cloud cash credits voucher",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Credits and go-to-market support; active in SEA.",
+   "needs_vc": false,
+   "apply_url": "https://www.huaweicloud.com/intl/en-us/startup/",
+   "source_url": "https://www.huaweicloud.com/intl/en-us/startup/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Tencent Cloud Startup Program",
+   "provider": "Tencent Cloud",
+   "category": "Cloud",
+   "value": "not stated (credits/discounts assigned after review)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "VC-backed startups; verified Tencent Cloud account; reviewed within ~2 weeks.",
+   "needs_vc": true,
+   "apply_url": "https://www.tencentcloud.com/campaign/startupprogram",
+   "source_url": "https://www.tencentcloud.com/campaign/startupprogram",
+   "date_checked": "2026-11-04",
+   "verified": false,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "MongoDB for Startups",
+   "provider": "MongoDB",
+   "category": "Cloud",
+   "value": "Atlas credits + Voyage AI tokens (amount not stated; Inspire tier for bootstrapped, Grow for funded)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "<7 years old, Series A or earlier, single software product (agencies excluded), new to program, active website + LinkedIn.",
+   "needs_vc": false,
+   "apply_url": "https://www.mongodb.com/solutions/startups",
+   "source_url": "https://www.mongodb.com/solutions/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Vercel for Startups",
+   "provider": "Vercel",
+   "category": "Cloud",
+   "value": "Up to US$30,000 in Flexible Commitment Amount + Enterprise-tier access",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "'Eligible teams' (criteria not stated on page).",
+   "needs_vc": true,
+   "apply_url": "https://vercel.com/startups",
+   "source_url": "https://vercel.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "NVIDIA Inception",
+   "provider": "NVIDIA",
+   "category": "AI",
+   "value": "Free membership; partner cloud credits and preferred hardware/software pricing (amount not stated)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Free program for AI startups; perks and partner cloud credits.",
+   "needs_vc": false,
+   "apply_url": "https://www.nvidia.com/en-us/startups/",
+   "source_url": "https://www.nvidia.com/en-us/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "ElevenLabs Startup Grants",
+   "provider": "ElevenLabs",
+   "category": "AI",
+   "value": "12 months free, 33M characters (valued over US$5,500 by ElevenLabs)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Business email, monetisation plan, fewer than 25 employees; agencies/consultancies excluded.",
+   "needs_vc": false,
+   "apply_url": "https://elevenlabs.io/startup-grants",
+   "source_url": "https://elevenlabs.io/startup-grants",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Claude for Startups",
+   "provider": "Anthropic",
+   "category": "AI",
+   "value": "Up to US$100,000 Claude API credits for partner-VC-backed startups; up to US$45,000 partner offers",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Reported CLOSED to new applications as of Nov 2026; partner VC backing needed for API credits.",
+   "needs_vc": true,
+   "apply_url": "https://claude.com/programs/startups",
+   "source_url": "https://claude.com/programs/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "closed"
+  },
+  {
+   "name": "OpenAI for Startups",
+   "provider": "OpenAI",
+   "category": "AI",
+   "value": "not stated (API credits via VC partners)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Requires referral code from an eligible VC partner.",
+   "needs_vc": true,
+   "apply_url": "https://openai.com/business/why-openai/startups/",
+   "source_url": "https://openai.com/business/why-openai/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Azure OpenAI via Microsoft for Startups",
+   "provider": "Microsoft",
+   "category": "AI",
+   "value": "Covered by Microsoft for Startups credits (see above)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Startup credits usable on Microsoft Foundry models.",
+   "needs_vc": false,
+   "apply_url": "https://www.microsoft.com/en-us/startups",
+   "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Amazon Bedrock via AWS Activate",
+   "provider": "Amazon Web Services",
+   "category": "AI",
+   "value": "Covered by AWS Activate credits",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Activate credits redeemable on third-party models on Bedrock (Anthropic, Meta, Mistral etc.).",
+   "needs_vc": false,
+   "apply_url": "https://aws.amazon.com/startups/credits",
+   "source_url": "https://aws.amazon.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Deepgram Startup Program",
+   "provider": "Deepgram",
+   "category": "AI",
+   "value": "US$1,000 starter credits for direct applicants; tiers up to US$100,000 over 12 months",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "AI builder or early-stage startup, in production or launching within 6 months; >US$10M raised reviewed case by case; needs Deepgram console account.",
+   "needs_vc": false,
+   "apply_url": "https://deepgram.com/startup-program",
+   "source_url": "https://deepgram.com/startup-program",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "AssemblyAI for Startups",
+   "provider": "AssemblyAI",
+   "category": "AI",
+   "value": "Fixed credit amount (not stated), 12 months recurring free credits, then startup discounts",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Bootstrapped through Series A, building with voice/audio, launching within 6 months.",
+   "needs_vc": false,
+   "apply_url": "https://www.assemblyai.com/contact/startup-program",
+   "source_url": "https://www.assemblyai.com/contact/startup-program",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Pinecone for Startups",
+   "provider": "Pinecone",
+   "category": "AI",
+   "value": "Usage credits and discounts (amount not stated)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Fewer than 100 employees; Series A or earlier.",
+   "needs_vc": false,
+   "apply_url": "https://www.pinecone.io/startup-program/",
+   "source_url": "https://www.pinecone.io/startup-program/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Together AI Startup Accelerator",
+   "provider": "Together AI",
+   "category": "AI",
+   "value": "Up to US$15K (≤US$5M raised), US$30K (US$5M-10M), US$50K (>US$10M) platform credits",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Selection-based; tier set by amount raised.",
+   "needs_vc": false,
+   "apply_url": "https://www.together.ai/startup-accelerator",
+   "source_url": "https://www.together.ai/startup-accelerator",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Stripe Atlas perks",
+   "provider": "Stripe",
+   "category": "SaaS",
+   "value": "US$500 on incorporation + Treasury account; US$2.5K Stripe credits; US$200K+ partner offers",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Incorporate a US company via Stripe Atlas (fee applies); US$500 needs Stripe Treasury account within 7 days.",
+   "needs_vc": false,
+   "apply_url": "https://stripe.com/atlas",
+   "source_url": "https://stripe.com/en-my/atlas",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Notion for Startups",
+   "provider": "Notion",
+   "category": "SaaS",
+   "value": "Up to 6 months free Business plan with Notion AI (up to US$12,000 value)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Non-paying Notion customers with under 100 employees.",
+   "needs_vc": false,
+   "apply_url": "https://www.notion.com/startups",
+   "source_url": "https://www.notion.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "HubSpot for Startups",
+   "provider": "HubSpot",
+   "category": "SaaS",
+   "value": "90% off Year 1 (Seed and Series A)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Seed (under US$2M raised) and Series A founders.",
+   "needs_vc": true,
+   "apply_url": "https://www.hubspot.com/startups",
+   "source_url": "https://www.hubspot.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Intercom Early Stage",
+   "provider": "Intercom",
+   "category": "SaaS",
+   "value": "93% off Intercom + 1 year of Fin free",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Up to US$10M funding, fewer than 15 employees, not a current Intercom customer.",
+   "needs_vc": false,
+   "apply_url": "https://www.intercom.com/early-stage",
+   "source_url": "https://www.intercom.com/early-stage",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Zendesk for Startups",
+   "provider": "Zendesk",
+   "category": "SaaS",
+   "value": "Up to 2 years of Zendesk free",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "'Qualified startups' (criteria not stated on page).",
+   "needs_vc": true,
+   "apply_url": "https://www.zendesk.com/startups/",
+   "source_url": "https://www.zendesk.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Atlassian for Startups",
+   "provider": "Atlassian",
+   "category": "SaaS",
+   "value": "Premium edition $0 for 12 months, up to 50 users",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Partner accelerator/incubator affiliation; raised no more than US$10M.",
+   "needs_vc": true,
+   "apply_url": "https://www.atlassian.com/software/startups",
+   "source_url": "https://www.atlassian.com/software/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Miro for Startups",
+   "provider": "Miro",
+   "category": "SaaS",
+   "value": "Free Miro credits (early startups); up to 25% discount (scale-ups)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "not stated",
+   "needs_vc": true,
+   "apply_url": "https://miro.com/startups/",
+   "source_url": "https://miro.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Linear for Startups",
+   "provider": "Linear",
+   "category": "SaaS",
+   "value": "not stated (offers via partner VCs/accelerators/communities)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Via a Linear startup partner.",
+   "needs_vc": true,
+   "apply_url": "https://linear.app/startups",
+   "source_url": "https://linear.app/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "PostHog for Startups",
+   "provider": "PostHog",
+   "category": "SaaS",
+   "value": "US$50,000 PostHog credits for 12 months + US$12,000 partner benefits",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Early-stage teams (see page for criteria).",
+   "needs_vc": false,
+   "apply_url": "https://posthog.com/startups",
+   "source_url": "https://posthog.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Mixpanel for Startups",
+   "provider": "Mixpanel",
+   "category": "SaaS",
+   "value": "First year free (described as worth US$145,000): full suite, 1B events, 1M Session Replays",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Startups (criteria on page).",
+   "needs_vc": false,
+   "apply_url": "https://mixpanel.com/startups",
+   "source_url": "https://mixpanel.com/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "GitHub for Startups",
+   "provider": "GitHub",
+   "category": "SaaS",
+   "value": "US$10,000 flexible platform credits",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Partner-affiliated startups.",
+   "needs_vc": true,
+   "apply_url": "https://github.com/enterprise/startups",
+   "source_url": "https://github.com/enterprise/startups",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "JetBrains Startup Program",
+   "provider": "JetBrains",
+   "category": "SaaS",
+   "value": "50% off up to 10 IDE subscriptions (all products pack), for up to 5 years",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Privately owned; established within last 5 years; website/online presence; commercial licences only.",
+   "needs_vc": false,
+   "apply_url": "https://www.jetbrains.com/startups/",
+   "source_url": "https://www.jetbrains.com/startups/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Google Workspace via Google for Startups",
+   "provider": "Google",
+   "category": "SaaS",
+   "value": "12 months Google Workspace Business Plus at no cost",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "12 months Workspace Business Plus for Cloud Program members (verified).",
+   "needs_vc": true,
+   "apply_url": "https://startup.google.com/cloud/",
+   "source_url": "https://startup.google.com/cloud/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Cradle CIP Spark",
+   "provider": "Cradle Fund (MOF)",
+   "category": "Grant",
+   "value": "Up to RM150,000 conditional grant, max 18 months",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "2+ individuals (1 Malaysian, 1 resident) or company <5 yrs, revenue <RM3M, owns IP. No paid-up capital needed.",
+   "needs_vc": false,
+   "apply_url": "https://www.cradle.com.my/cip-spark/",
+   "source_url": "https://www.cradle.com.my/cip-spark/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Cradle CIP Sprint",
+   "provider": "Cradle Fund (MOF)",
+   "category": "Grant",
+   "value": "Up to RM600,000 conditional convertible grant, max 18 months",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Sdn Bhd <7 yrs, revenue <RM5M, RM10k paid-up, 2+ directors (1 Malaysian), owns IP.",
+   "needs_vc": false,
+   "apply_url": "https://www.cradle.com.my/cip-sprint/",
+   "source_url": "https://www.cradle.com.my/cip-sprint/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "MDEC Digital Content Grant 2026 (Marketing & Commercialisation)",
+   "provider": "MDEC",
+   "category": "Grant",
+   "value": "Up to RM300,000, up to 100% of eligible cost",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Malaysian animation/games companies, operating 1+ yr, MD or MSC status.",
+   "needs_vc": false,
+   "apply_url": "http://www.mdec.my/grants/dcg",
+   "source_url": "http://www.mdec.my/grants/dcg",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "MDEC Digital Content Grant 2026 (Mega)",
+   "provider": "MDEC",
+   "category": "Grant",
+   "value": "Up to RM2 million, up to 50% of project cost",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Malaysian animation/games companies; capital/ownership criteria apply.",
+   "needs_vc": false,
+   "apply_url": "http://www.mdec.my/grants/dcg",
+   "source_url": "https://www.businesstoday.com.my/2026/07/15/content-creators-may-start-applying-for-grants-up-to-rm2-million-from-mdec/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Malaysia Digital (MD) status",
+   "provider": "MDEC",
+   "category": "Program",
+   "value": "Tax incentives (not cash); separate MD Tax Incentive application",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Malaysian-incorporated, resident; MD activity; paid-up capital ≥RM1,000 (RM50,000 for tax incentive). MD tax incentive applications open until 31 Dec 2027.",
+   "needs_vc": false,
+   "apply_url": "https://www.mdec.my/malaysiadigital",
+   "source_url": "https://www.mdec.my/static/pdf/malaysiadigital/Malaysia-Digital-MD-Status-Guidelines_Effective-28-August-2025.pdf",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "MRANTI programmes (ex-MaGIC)",
+   "provider": "MRANTI",
+   "category": "Accelerator",
+   "value": "not stated (programmes: Global Accelerator Programme, Global Market Fit, VentureX, etc.)",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Malaysian Research Accelerator for Technology & Innovation; runs accelerators and commercialisation support.",
+   "needs_vc": false,
+   "apply_url": "https://mranti.my/",
+   "source_url": "https://mranti.my/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "MYStartup (national startup directory)",
+   "provider": "MOSTI / Cradle",
+   "category": "Program",
+   "value": "not stated (directory of government/private funding)",
+   "countries": [
+    "MY"
+   ],
+   "eligibility": "Directory/single window; individual schemes have own criteria.",
+   "needs_vc": false,
+   "apply_url": "https://www.mystartup.gov.my/",
+   "source_url": "https://www.mystartup.gov.my/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Startup SG Founder",
+   "provider": "Enterprise Singapore",
+   "category": "Grant",
+   "value": "S$20,000 to S$50,000 at 1:1 co-matching",
+   "countries": [
+    "SG"
+   ],
+   "eligibility": "First applicant a first-time founder; Pte Ltd <6 months old; 51% SG citizen/PR owned; via Accredited Mentor Partner.",
+   "needs_vc": false,
+   "apply_url": "https://www.startupsg.gov.sg/programmes/4894/startup-sg-founder",
+   "source_url": "https://iie.smu.edu.sg/startup-sg-founder-grant",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Startup SG Tech",
+   "provider": "Enterprise Singapore",
+   "category": "Grant",
+   "value": "not stated on page (POC/POV grant, milestone-based; EnterpriseSG holds share-subscription right)",
+   "countries": [
+    "SG"
+   ],
+   "eligibility": "Startups with proprietary technology and scalable model.",
+   "needs_vc": false,
+   "apply_url": "https://www.startupsg.gov.sg/programmes/4897/startup-sg-tech",
+   "source_url": "https://www.startupsg.gov.sg/programmes/4897/startup-sg-tech",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Startup SG Equity",
+   "provider": "Enterprise Singapore / SEEDS Capital",
+   "category": "Program",
+   "value": "Co-investment up to S$12 million (2:1 up to S$1M in first institutional round, then tapering)",
+   "countries": [
+    "SG"
+   ],
+   "eligibility": "Singapore-based deep-tech startups with proprietary IP, alongside qualifying investors.",
+   "needs_vc": true,
+   "apply_url": "https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity",
+   "source_url": "https://www.seedscapital.sg/about-us/our-co-investment-model/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Productivity Solutions Grant (PSG)",
+   "provider": "Enterprise Singapore",
+   "category": "Grant",
+   "value": "not stated on page (support % for pre-approved solutions)",
+   "countries": [
+    "SG"
+   ],
+   "eligibility": "Registered and operating in Singapore; solution used in Singapore; 30% local shareholding for selected solutions; 3 local employees for consultancy.",
+   "needs_vc": false,
+   "apply_url": "https://grants.gobusiness.gov.sg/support/productivity-solutions-grant",
+   "source_url": "https://grants.gobusiness.gov.sg/support/productivity-solutions-grant",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Thailand NIA innovation grants",
+   "provider": "National Innovation Agency (NIA)",
+   "category": "Grant",
+   "value": "Up to THB 5 million, typically up to 75% of project cost",
+   "countries": [
+    "TH"
+   ],
+   "eligibility": "Thai-registered entity, 51%+ Thai owned.",
+   "needs_vc": false,
+   "apply_url": "https://www.nia.or.th/QAGrant",
+   "source_url": "https://www.nia.or.th/QAGrant",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "DOST-PCIEERD Startup Grant Fund",
+   "provider": "DOST-PCIEERD",
+   "category": "Grant",
+   "value": "Up to PHP 5 million over 18 months",
+   "countries": [
+    "PH"
+   ],
+   "eligibility": "Philippine tech startups; 2026 call ran 3-31 July 2026 (check next call).",
+   "needs_vc": false,
+   "apply_url": "https://pcieerd.dost.gov.ph/work-with-us/2026-call-for-proposal-for-the-pcieerd-startup-grant-fund-program/",
+   "source_url": "https://pcieerd.dost.gov.ph/work-with-us/2026-call-for-proposal-for-the-pcieerd-startup-grant-fund-program/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "L-CAMP Vietnam (Lotte Ventures)",
+   "provider": "Lotte Ventures Vietnam",
+   "category": "Accelerator",
+   "value": "Proof-of-concept grants totalling up to US$80,000",
+   "countries": [
+    "VN"
+   ],
+   "eligibility": "2026 applications closed 19 June 2026; watch for next cohort.",
+   "needs_vc": false,
+   "apply_url": "https://technode.global/2026/06/01/lotte-ventures-vietnam-launches-80000-open-innovation-program-to-connect-startups-with-corporate-ecosystem/",
+   "source_url": "https://technode.global/2026/06/01/lotte-ventures-vietnam-launches-80000-open-innovation-program-to-connect-startups-with-corporate-ecosystem/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "UGM Startup Grant",
+   "provider": "Universitas Gadjah Mada",
+   "category": "Grant",
+   "value": "Up to IDR 12 million",
+   "countries": [
+    "ID"
+   ],
+   "eligibility": "UGM students/alumni; 2026 registration closed 27 March 2026.",
+   "needs_vc": false,
+   "apply_url": "https://ditpui.ugm.ac.id/info-hibah/hibah-prime-step/start-up-grant/",
+   "source_url": "https://ditpui.ugm.ac.id/info-hibah/hibah-prime-step/start-up-grant/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Google for Startups Accelerator: Southeast Asia",
+   "provider": "Google",
+   "category": "Accelerator",
+   "value": "Equity-free; Google product credits (amount not stated)",
+   "countries": [
+    "MY",
+    "SG",
+    "ID",
+    "TH",
+    "VN",
+    "PH"
+   ],
+   "eligibility": "SEA-based tech startups, ideally Seed to Series B, deeply technical (AI/ML). Applications currently closed.",
+   "needs_vc": false,
+   "apply_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
+   "source_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "closed"
+  },
+  {
+   "name": "AWS Generative AI Accelerator",
+   "provider": "Amazon Web Services",
+   "category": "Accelerator",
+   "value": "Up to US$1,000,000 AWS credits (2025 cohort)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Early-stage generative AI startups; 8-week program. 2026 window (10 Jun–10 Jul) reported closed; official page not loaded.",
+   "needs_vc": false,
+   "apply_url": "https://aws.amazon.com/startups/accelerators",
+   "source_url": "https://press.aboutamazon.com/aws/2025/10/aws-selects-40-promising-ai-startups-from-around-the-world-for-the-2025-generative-ai-accelerator",
+   "date_checked": "2026-11-04",
+   "verified": false,
+   "featured": false,
+   "status": "closed"
+  },
+  {
+   "name": "Antler Singapore (SEA)",
+   "provider": "Antler",
+   "category": "Accelerator",
+   "value": "US$150,000 for ~10% (US$100k SAFE + US$50k uncapped MFN SAFE), up to US$400,000 incl. matching",
+   "countries": [
+    "MY",
+    "SG",
+    "ID",
+    "VN",
+    "PH",
+    "TH"
+   ],
+   "eligibility": "6-week in-person residency in Singapore (next 5 Oct 2026); Malaysia also has a Direct Investment Track for teams with MVP and traction.",
+   "needs_vc": true,
+   "apply_url": "https://www.antler.co/location/singapore",
+   "source_url": "https://www.antler.co/location/singapore",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Iterative",
+   "provider": "Iterative",
+   "category": "Accelerator",
+   "value": "US$150K to US$500K investment (equity)",
+   "countries": [
+    "MY",
+    "SG",
+    "ID",
+    "TH",
+    "VN",
+    "PH"
+   ],
+   "eligibility": "SEA-focused batch, twice a year; Winter 2027 applications open.",
+   "needs_vc": true,
+   "apply_url": "https://www.iterative.vc/",
+   "source_url": "https://www.iterative.vc/",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "500 Global Southeast Asia",
+   "provider": "500 Global",
+   "category": "Accelerator",
+   "value": "not stated",
+   "countries": [
+    "MY",
+    "SG",
+    "ID",
+    "TH",
+    "VN",
+    "PH"
+   ],
+   "eligibility": "500.co lists Southeast Asia programmes; no SEA terms found on homepage.",
+   "needs_vc": true,
+   "apply_url": "https://500.co/",
+   "source_url": "https://500.co/",
+   "date_checked": "2026-11-04",
+   "verified": false,
+   "featured": false,
+   "status": "open"
+  },
+  {
+   "name": "Y Combinator",
+   "provider": "Y Combinator",
+   "category": "Accelerator",
+   "value": "US$500,000 standard deal (US$125K for 7% + US$375K uncapped MFN SAFE)",
+   "countries": [
+    "Global"
+   ],
+   "eligibility": "Open to SEA founders; equity + SAFE.",
+   "needs_vc": true,
+   "apply_url": "https://www.ycombinator.com/apply",
+   "source_url": "https://www.ycombinator.com/deal",
+   "date_checked": "2026-11-04",
+   "verified": true,
+   "featured": false,
+   "status": "open"
+  }
+ ]
+}
