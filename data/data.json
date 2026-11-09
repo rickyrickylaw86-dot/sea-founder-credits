@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-09",
  "countries": [
   "MY",
   "SG",
@@ -21,7 +21,7 @@
    "needs_vc": false,
    "apply_url": "https://aws.amazon.com/startups/credits",
    "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -38,7 +38,7 @@
    "needs_vc": true,
    "apply_url": "https://aws.amazon.com/startups/credits",
    "source_url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -55,7 +55,7 @@
    "needs_vc": true,
    "apply_url": "https://startup.google.com/cloud/",
    "source_url": "https://startup.google.com/cloud/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -72,7 +72,7 @@
    "needs_vc": true,
    "apply_url": "https://cloud.google.com/startup/ai",
    "source_url": "https://cloud.google.com/startup/ai",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -106,7 +106,7 @@
    "needs_vc": false,
    "apply_url": "https://www.cloudflare.com/startups/",
    "source_url": "https://www.cloudflare.com/startups/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -123,7 +123,7 @@
    "needs_vc": true,
    "apply_url": "https://www.cloudflare.com/startups/",
    "source_url": "https://www.cloudflare.com/startups/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -157,7 +157,7 @@
    "needs_vc": false,
    "apply_url": "https://www.digitalocean.com/startups",
    "source_url": "https://www.digitalocean.com/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -225,7 +225,7 @@
    "needs_vc": false,
    "apply_url": "https://www.mongodb.com/solutions/startups",
    "source_url": "https://www.mongodb.com/solutions/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -242,7 +242,7 @@
    "needs_vc": true,
    "apply_url": "https://vercel.com/startups",
    "source_url": "https://vercel.com/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -285,15 +285,15 @@
    "name": "Claude for Startups",
    "provider": "Anthropic",
    "category": "AI",
-   "value": "Up to US$100,000 Claude API credits for partner-VC-backed startups; up to US$45,000 partner offers",
+   "value": "Up to US$45,000 in partner offers (Claude Startup Stack); up to US$100,000 extra API credits only via a partner VC",
    "countries": [
     "Global"
    ],
-   "eligibility": "Reported CLOSED to new applications as of Nov 2026; partner VC backing needed for API credits.",
+   "eligibility": "Cohort full, no new applications as of 9 Nov 2026, no reopening date. The US$1,000 API credit + free Claude Team year offered in Oct 2026 is no longer listed on the page. Current members keep access.",
    "needs_vc": true,
    "apply_url": "https://claude.com/programs/startups",
    "source_url": "https://claude.com/programs/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "closed (next round TBA)"
@@ -361,7 +361,7 @@
    "needs_vc": false,
    "apply_url": "https://deepgram.com/startup-program",
    "source_url": "https://deepgram.com/startup-program",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -412,7 +412,7 @@
    "needs_vc": false,
    "apply_url": "https://www.together.ai/startup-accelerator",
    "source_url": "https://www.together.ai/startup-accelerator",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -446,7 +446,7 @@
    "needs_vc": false,
    "apply_url": "https://www.notion.com/startups",
    "source_url": "https://www.notion.com/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -514,7 +514,7 @@
    "needs_vc": true,
    "apply_url": "https://www.atlassian.com/software/startups",
    "source_url": "https://www.atlassian.com/software/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -565,7 +565,7 @@
    "needs_vc": false,
    "apply_url": "https://posthog.com/startups",
    "source_url": "https://posthog.com/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -599,7 +599,7 @@
    "needs_vc": true,
    "apply_url": "https://github.com/enterprise/startups",
    "source_url": "https://github.com/enterprise/startups",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "open"
@@ -650,7 +650,7 @@
    "needs_vc": false,
    "apply_url": "https://www.cradle.com.my/cip-spark/",
    "source_url": "https://www.cradle.com.my/cip-spark/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "rolling"
@@ -684,7 +684,7 @@
    "needs_vc": false,
    "apply_url": "http://www.mdec.my/grants/dcg",
    "source_url": "http://www.mdec.my/grants/dcg",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "closed (next round TBA)"
@@ -701,7 +701,7 @@
    "needs_vc": false,
    "apply_url": "http://www.mdec.my/grants/dcg",
    "source_url": "https://www.businesstoday.com.my/2026/07/15/content-creators-may-start-applying-for-grants-up-to-rm2-million-from-mdec/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "closed (next round TBA)"
@@ -812,18 +812,18 @@
    "name": "Productivity Solutions Grant (PSG)",
    "provider": "Enterprise Singapore",
    "category": "Grant",
-   "value": "not stated on page (support % for pre-approved solutions)",
+   "value": "Was up to 50% of eligible costs (cap S$30,000); no new applications",
    "countries": [
     "SG"
    ],
-   "eligibility": "Registered and operating in Singapore; solution used in Singapore; 30% local shareholding for selected solutions; 3 local employees for consultancy.",
+   "eligibility": "Enterprise Singapore's PSG ceased 29 Sep 2026; new applications go to the EDGE Grant (see separate entry). Pre-30 Sep applications still processed. Built Environment PSG (BCA) is separate and still open until it moves to EDGE in Dec 2026.",
    "needs_vc": false,
-   "apply_url": "https://grants.gobusiness.gov.sg/support/productivity-solutions-grant",
-   "source_url": "https://grants.gobusiness.gov.sg/support/productivity-solutions-grant",
-   "date_checked": "2026-11-04",
+   "apply_url": "https://www.enterprisesg.gov.sg/psg",
+   "source_url": "https://www.enterprisesg.gov.sg/psg",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
-   "status": "rolling"
+   "status": "closed (next round TBA)"
   },
   {
    "name": "Thailand NIA innovation grants",
@@ -837,7 +837,7 @@
    "needs_vc": false,
    "apply_url": "https://www.nia.or.th/QAGrant",
    "source_url": "https://www.nia.or.th/QAGrant",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "rolling"
@@ -910,7 +910,7 @@
    "needs_vc": false,
    "apply_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
    "source_url": "https://startup.google.com/programs/accelerator/southeast-asia/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "closed (next round TBA)"
@@ -927,7 +927,7 @@
    "needs_vc": false,
    "apply_url": "https://aws.amazon.com/startups/accelerators",
    "source_url": "https://press.aboutamazon.com/aws/2025/10/aws-selects-40-promising-ai-startups-from-around-the-world-for-the-2025-generative-ai-accelerator",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": false,
    "featured": false,
    "status": "closed (next round TBA)"
@@ -949,7 +949,7 @@
    "needs_vc": true,
    "apply_url": "https://www.antler.co/location/singapore",
    "source_url": "https://www.antler.co/location/singapore",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-09",
    "verified": true,
    "featured": false,
    "status": "rolling"
@@ -1014,6 +1014,75 @@
    "verified": true,
    "featured": false,
    "status": "open"
+  },
+  {
+   "name": "EDGE Grant (Enterprise Singapore)",
+   "provider": "Enterprise Singapore",
+   "category": "Grant",
+   "value": "Up to 50% for SMEs (up to 70% for internationalisation and sustainability); up to S$100,000 grant per year",
+   "countries": [
+    "SG"
+   ],
+   "eligibility": "Business registered in Singapore with at least 30% Singaporean/PR ownership; other rules per activity. Replaced EDG, MRA and PSG on 30 Sep 2026; paid on reimbursement after the work is done. No closing date stated.",
+   "apply_url": "https://www.enterprisesg.gov.sg/financial-support/edge-grant",
+   "source_url": "https://www.enterprisesg.gov.sg/resources/all-faqs/edge-grant/",
+   "verified": true,
+   "status": "rolling",
+   "needs_vc": false,
+   "date_checked": "2026-11-09",
+   "featured": false
+  },
+  {
+   "name": "Riverpreneur Challenge (Mekong River Commission)",
+   "provider": "Mekong River Commission",
+   "category": "Grant",
+   "value": "USD 6,000 pilot seed funding for each of 4 winners (USD 24,000 total pool); top 15 get training and mentoring",
+   "countries": [
+    "TH",
+    "VN"
+   ],
+   "eligibility": "Lead applicant aged 18-35, citizen of Thailand, Vietnam, Cambodia or Laos, founder/co-founder of an early-stage venture beyond idea stage (prototype or early revenue) tackling Mekong water, food or circular-economy issues. Deadline 4 Dec 2026; final pitch 3 Apr 2027 in Bangkok.",
+   "apply_url": "https://riverpreneur.mrcmekong.org/",
+   "source_url": "https://riverpreneur.mrcmekong.org/",
+   "verified": true,
+   "status": "open",
+   "needs_vc": false,
+   "date_checked": "2026-11-09",
+   "featured": false
+  },
+  {
+   "name": "TED Youth Startup: POC (Thailand)",
+   "provider": "Thailand government (TED Fund)",
+   "category": "Grant",
+   "value": "Up to THB 1,500,000 partial matching grant",
+   "countries": [
+    "TH"
+   ],
+   "eligibility": "For students and young founders at proof-of-concept/prototype stage. Closes 30 Nov 2026. Details from secondary listing (CapEasy, checked 4 Nov 2026); not yet read on the official page.",
+   "apply_url": "https://capeasy.co/th/funding/ted-youth-startup-poc-incubator-incentive-program/",
+   "source_url": "https://capeasy.co/th/funding/ted-youth-startup-poc-incubator-incentive-program/",
+   "verified": false,
+   "status": "open",
+   "needs_vc": false,
+   "date_checked": "2026-11-09",
+   "featured": false
+  },
+  {
+   "name": "HCMC Creative Startup Project Support 2026 (Digital Technology)",
+   "provider": "Ho Chi Minh City government",
+   "category": "Grant",
+   "value": "Up to 50% of each cost item: up to VND 100m (training), 150m (R&D/pilot), 50m (consulting), 400m (technology) per project",
+   "countries": [
+    "VN"
+   ],
+   "eligibility": "Early-stage digital technology startups in Ho Chi Minh City. Closes 30 Nov 2026. Details from secondary listing (CapEasy, checked 4 Nov 2026); not yet read on the official page.",
+   "apply_url": "https://capeasy.co/vn/funding/support-for-creative-startup-projects-in-the-digital-technology-industry-2026/",
+   "source_url": "https://capeasy.co/vn/funding/support-for-creative-startup-projects-in-the-digital-technology-industry-2026/",
+   "verified": false,
+   "status": "open",
+   "needs_vc": false,
+   "date_checked": "2026-11-09",
+   "featured": false
   }
  ]
 }
